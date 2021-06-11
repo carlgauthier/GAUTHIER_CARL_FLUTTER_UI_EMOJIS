@@ -210,7 +210,7 @@ class MiniApp extends StatelessWidget{
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Container(
-                              child: Image.asset("assets/Sandwich.png"),
+                              child: Image.asset("assets/sandwich.png"),
                               height: 100,
                               width: 100,
                               padding: EdgeInsets.all(20.0),
